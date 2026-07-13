@@ -1,49 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=Ambadi%20Kannan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Engineer%20|%20Open%20to%20Work&descAlignY=60" width="100%"/>
-</p>
+<table>
+<tr>
 
-<h1 align="center">
-Hi 👋, I'm <span style="color:#8A2BE2;">Ambadi Kannan M</span>
-</h1>
+<td width="35%" align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Python+Developer;Backend+Engineer;Django+Developer;React+Learner;PostgreSQL+Enthusiast;Clean+Architecture+Advocate;Data+Structures+%26+Algorithms;Always+Learning+Something+New" />
-</p>
+<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="250">
 
-<p align="center">
+</td>
 
-<img src="https://img.shields.io/badge/Self-Taught-Developer-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Python-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean-Architecture-5D3FD3?style=for-the-badge"/>
+<td width="65%">
 
-</p>
+# Hello, Fellow Developer! 👋
 
-<p align="center">
+## I'm Ambadi Kannan M
 
-<a href="mailto:mr.ak11718@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
+### Python Django Developer
 
-<a href="https://github.com/Callme_AK09">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+Building scalable backend systems, solving real-world problems, and continuously learning modern software engineering.
+
+<br>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/ambadi-kannan-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+<a href="mailto:mr.ak11718@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<p align="center">
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 
-![](https://komarev.com/ghpvc/?username=Callme_AK09&style=for-the-badge&color=blueviolet)
+<a href="https://leetcode.com/u/Ambadi_Kannan/">
+<img src="https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 
-![](https://img.shields.io/github/followers/Callme_AK09?style=for-the-badge)
+</td>
 
-![](https://img.shields.io/github/stars/Callme_AK09?style=for-the-badge)
-
-</p>
+</tr>
+</table>
 
 ---
 
