@@ -1,248 +1,94 @@
-<table>
-<tr>
+<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="250" align="left" style="margin-right:20px;">
 
-<td width="35%" align="center">
+# 👋 ***Hello, Fellow Developer!***
+## I'm **_Ambadi Kannan M_**
+### ***Python Backend Developer*** • ***Django Developer*** • ***AI Enthusiast***
 
-<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="250">
-
-</td>
-
-<td width="65%">
-
-# Hello, Fellow Developer! 👋
-
-## I'm Ambadi Kannan M
-
-### Python Django Developer
-
-Building scalable backend systems, solving real-world problems, and continuously learning modern software engineering.
+*Building scalable backend systems, solving real-world problems, and continuously learning modern software engineering.*
 
 <br>
 
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-<a href="https://www.linkedin.com/in/ambadi-kannan-m">
+<a href="https://www.linkedin.com/in/ambadi-kannan-m/">
 <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<a href="mailto:mr.ak11718@gmail.com">
+<a href="mailto:ambadi.kannan.dev@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 <a href="YOUR_RESUME">
 <img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
-
 <a href="https://leetcode.com/u/Ambadi_Kannan/">
 <img src="https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-</td>
+<br clear="left">
 
-</tr>
-</table>
+## 👨‍🚀 About Me
+I'm Ambadi, a self-taught Python programmer with a strong foundation built through hands-on projects. Based in Trivandrum, Kerala, I completed my higher secondary education and have since been dedicated to building my skills so I can grow into a strong career and contribute meaningfully to an organization. I'm driven to prove what I'm capable of through real, practical work rather than just theory.
 
----
-
-# 💼 About Me
-
-```yaml
-Name: Ambadi Kannan M
-
-Role: Python Developer
-
-Location: Trivandrum, Kerala
-
-Current Status: Student
-
-Open To:
-  - Software Engineer
-  - Backend Developer
-  - Python Developer
-  - Django Developer
-
-Languages:
-  - English
-  - Malayalam
-
-```
-
-I'm a **self-taught Python Developer** passionate about designing scalable backend systems and solving real-world problems through software engineering.
-
-My learning journey is built on **hands-on development**, where I focus on understanding concepts deeply instead of simply using frameworks.
-
-Currently I'm strengthening my expertise in:
-
-- Backend Development
-- Django
-- PostgreSQL
-- Clean Architecture
-- Modular Monolith Architecture
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- System Design
-- API Development
-
-I enjoy building projects that emphasize:
-
-- Maintainability
-- Scalability
-- Performance
-- Security
-- Clean Code
-- Real-world Architecture
-
----
-
-# 🚀 Open To
-
-✔ Backend Engineering
-
-✔ Python Development
-
-✔ Django Development
-
-✔ Software Engineering Roles
-
-✔ Open Source Collaboration
-
-✔ Learning New Technologies
+I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growing as a Python Developer or Software Developer — someone who can take on real problems and deliver solid, working solutions.
 
 ---
 
 # ⚡ Tech Stack
 
-## Programming Languages
+### 💻 Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## Frontend
+### 🎨 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## Backend
+### ⚙️ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-</p>
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-000000?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-## Database
+### 🗄️ Database
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## DevOps & Tools
+### ☁️ DevOps & Cloud
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
-# 🤖 AI / ML Expertise
+### 🛠️ Tools
 
-| Domain | Proficiency | Details |
-|---------|------------|----------|
-| Python Programming | ⭐⭐⭐⭐⭐ | Advanced Python development |
-| Backend Development | ⭐⭐⭐⭐⭐ | REST APIs, Django Architecture |
-| Artificial Intelligence | ⭐⭐⭐ | AI Integration & LLM Applications |
-| Machine Learning | ⭐⭐⭐ | Learning Core ML Concepts |
-| Data Structures | ⭐⭐⭐⭐⭐ | Trees, Graphs, Heap, Stack, Queue |
-| Databases | ⭐⭐⭐⭐ | PostgreSQL, SQL |
-| Software Architecture | ⭐⭐⭐⭐⭐ | Clean Architecture & Modular Monolith |
-| Problem Solving | ⭐⭐⭐⭐⭐ | DSA & Logical Thinking |
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🎯 Engineering Philosophy
+### ⚡ Queue & Cache
 
-> **"Great software isn't just code that works—it's code that's maintainable, scalable, secure, and easy for the next engineer to understand."**
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-Learning:
-  - Advanced Django
-  - System Design
-  - PostgreSQL
-  - Docker
-  - Kubernetes
-  - AWS
-  - Machine Learning
-
-Building:
-  - TaskPixie
-  - Readsy
-
-Exploring:
-  - AI Engineering
-  - Clean Architecture
-  - Design Patterns
-  - Microservices
-
-Open To:
-  - Backend Developer Roles
-  - Software Engineering Internships
-  - Open Source Contributions
-```
+![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
-
----
-
 # 🚀 Featured Projects
 
 > Every project represents my commitment to writing clean, maintainable, and production-ready software while continuously improving my engineering skills.
