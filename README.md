@@ -1,8 +1,19 @@
-<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="250" align="left" style="margin-right:20px;">
+<table>
+<tr>
 
-# 👋 ***Hello, Fellow Developer!***
-## I'm **_Ambadi Kannan M_**
-### ***Python Backend Developer*** • ***Django Developer*** • ***AI Enthusiast***
+<td width="32%" align="center">
+
+<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="240">
+
+</td>
+
+<td width="68%" valign="middle">
+
+# 👋 Hello, Fellow Developer!
+
+## I'm **Ambadi Kannan M**
+
+### Python Backend Developer • Django Developer • AI Enthusiast
 
 *Building scalable backend systems, solving real-world problems, and continuously learning modern software engineering.*
 
@@ -11,20 +22,29 @@
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/ambadi-kannan-m/">
 <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:ambadi.kannan.dev@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 <a href="YOUR_RESUME">
 <img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
+
 <a href="https://leetcode.com/u/Ambadi_Kannan/">
 <img src="https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-<br clear="left">
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 👨‍🚀 About Me
 I'm Ambadi, a self-taught Python programmer with a strong foundation built through hands-on projects. Based in Trivandrum, Kerala, I completed my higher secondary education and have since been dedicated to building my skills so I can grow into a strong career and contribute meaningfully to an organization. I'm driven to prove what I'm capable of through real, practical work rather than just theory.
@@ -53,6 +73,63 @@ I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growin
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+
+
+# 🧠 Data Structures & Algorithms
+
+> *Building efficient solutions through strong problem-solving fundamentals.*
+
+### 📚 Data Structures
+
+<p>
+
+<img src="https://img.shields.io/badge/Arrays-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Strings-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Linked%20List-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Queue-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Tree-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Binary%20Search%20Tree-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Heap-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Trie-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Graph-000000?style=for-the-badge&logoColor=white">
+
+</p>
+
+---
+
+### ⚡ Algorithms
+
+<p>
+
+<img src="https://img.shields.io/badge/Bubble%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Selection%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Insertion%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Merge%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Quick%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Heap%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Binary%20Search-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Recursion-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backtracking-000000?style=for-the-badge">
+
+</p>
+
+---
+
+### 🎯 Problem Solving
+
+<p>
+
+<img src="https://img.shields.io/badge/Sliding%20Window-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Two%20Pointers-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Fast%20Slow%20Pointers-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prefix%20Sum-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hashing-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Greedy-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/BFS-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/DFS-000000?style=for-the-badge">
+
+</p>
 
 ### ⚙️ Backend
 
@@ -87,6 +164,64 @@ I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growin
 
 ![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+> *Building efficient solutions through strong problem-solving fundamentals.*
+
+### 📚 Data Structures
+
+<p>
+
+<img src="https://img.shields.io/badge/Arrays-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Strings-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Linked%20List-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Queue-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Tree-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Binary%20Search%20Tree-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Heap-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Trie-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Graph-000000?style=for-the-badge&logoColor=white">
+
+</p>
+
+---
+
+### ⚡ Algorithms
+
+<p>
+
+<img src="https://img.shields.io/badge/Bubble%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Selection%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Insertion%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Merge%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Quick%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Heap%20Sort-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Binary%20Search-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Recursion-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Backtracking-000000?style=for-the-badge">
+
+</p>
+
+---
+
+### 🎯 Problem Solving
+
+<p>
+
+<img src="https://img.shields.io/badge/Sliding%20Window-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Two%20Pointers-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Fast%20Slow%20Pointers-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prefix%20Sum-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hashing-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Greedy-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/BFS-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/DFS-000000?style=for-the-badge">
+
+</p>
 
 ---
 # 🚀 Featured Projects
