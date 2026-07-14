@@ -74,63 +74,6 @@ I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growin
 
 ---
 
-
-# 🧠 Data Structures & Algorithms
-
-> *Building efficient solutions through strong problem-solving fundamentals.*
-
-### 📚 Data Structures
-
-<p>
-
-<img src="https://img.shields.io/badge/Arrays-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Strings-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Linked%20List-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Stack-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Queue-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Tree-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Binary%20Search%20Tree-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Heap-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Trie-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Graph-000000?style=for-the-badge&logoColor=white">
-
-</p>
-
----
-
-### ⚡ Algorithms
-
-<p>
-
-<img src="https://img.shields.io/badge/Bubble%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Selection%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Insertion%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Merge%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Quick%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Heap%20Sort-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Binary%20Search-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Recursion-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Backtracking-000000?style=for-the-badge">
-
-</p>
-
----
-
-### 🎯 Problem Solving
-
-<p>
-
-<img src="https://img.shields.io/badge/Sliding%20Window-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Two%20Pointers-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Fast%20Slow%20Pointers-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prefix%20Sum-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hashing-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Greedy-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/BFS-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/DFS-000000?style=for-the-badge">
-
-</p>
-
 ### ⚙️ Backend
 
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
@@ -167,6 +110,14 @@ I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growin
 
 ---
 
+### 🔗 APIs & Services
+
+![Razorpay](https://img.shields.io/badge/Razorpay-000000?style=for-the-badge&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-000000?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
 # 🧠 Data Structures & Algorithms
 
 > *Building efficient solutions through strong problem-solving fundamentals.*
@@ -224,397 +175,68 @@ I speak Malayalam (mother tongue), English, and Hindi, and I'm focused on growin
 </p>
 
 ---
-# 🚀 Featured Projects
 
-> Every project represents my commitment to writing clean, maintainable, and production-ready software while continuously improving my engineering skills.
+# 🚀 Featured Missions
 
----
-
-<details>
-<summary>
-
-# 🚀 TaskPixie — AI Powered Task Management Platform
-
-</summary>
-
-### Overview
-
-TaskPixie is a modern productivity platform built using **Clean Architecture** and **Modular Monolith** principles. The project focuses on scalability, maintainability, security, and enterprise-grade backend design.
-
-Rather than building a traditional TODO application, TaskPixie is designed as a production-ready system capable of supporting AI-powered task management, authentication, notifications, analytics, and future microservice migration.
+> Every project is an opportunity to solve real-world problems, strengthen my engineering skills, and build scalable software. Here are some of the applications I've developed throughout my learning journey.
 
 ---
 
-| Category | Details |
-|----------|---------|
-| Architecture | Clean Architecture |
-| Design Pattern | Modular Monolith |
-| Backend | Django |
-| Database | PostgreSQL |
-| Authentication | JWT + Session |
-| API | REST API |
-| Deployment Ready | ✅ |
-| AI Ready | ✅ |
-| Repository | *Coming Soon* |
+# 🏥 MEDPAL - HOSPITAL MANAGEMENT SYSTEM
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/Medpal_logo_g2yock.png" alt="MEDPAL Hospital Management System" width="200"/>
+</p>
+
+## 📖 Overview
+
+**MEDPAL** is a full-stack Hospital Management System designed to simplify hospital operations through a modern, secure, and user-friendly platform. It streamlines appointment scheduling, patient management, doctor availability, prescriptions, laboratory reports, digital wallets, online payments, and administrative workflows within a single application.
+
+The project follows clean backend practices with role-based authentication, modular architecture, and RESTful APIs to deliver a scalable and maintainable solution.
 
 ---
 
-### Engineering Highlights
+### ✨ Key Features
 
-- Enterprise folder structure
-- Repository Pattern
-- Service Layer
-- Dependency Separation
-- Domain Driven Design Concepts
-- JWT Authentication
-- Session Authentication
-- PostgreSQL Integration
-- Docker Ready
-- API-first Development
-- Production Ready Settings
-- SOLID Principles
-- Scalable Codebase
+- 👨‍⚕️ Multi-role Authentication (Admin, Doctor, Patient & Receptionist)
+- 📅 Online Appointment Booking
+- 👨‍⚕️ Doctor & Department Management
+- 💊 Digital Prescriptions
+- 🧪 Laboratory Test Management
+- 📄 Medical Records
+- 💳 Wallet & Razorpay Payment Integration
+- 📊 Admin Dashboard & Analytics
+- 📄 PDF Report Generation
+- 📧 Email Notifications
+- 🔒 Secure Authentication & Authorization
 
 ---
 
-### Future Roadmap
+### ⚙️ Tech Stack
 
-- AI Task Suggestions
-- Calendar Integration
-- Team Workspace
-- Email Notifications
-- OAuth Login
-- Activity Timeline
-- Analytics Dashboard
-- Mobile API
+`Python` • `Django` • `Django REST Framework` • `PostgreSQL` • `Redis` • `Celery` • `Razorpay` • `Cloudinary` • `Docker` • `AWS`
 
 ---
 
-### Skills Demonstrated
+### 🔗 Explore the Project
 
-`Python`
+<a href="https://github.com/CallmeAK09/MEDPAL-Hospital-Management-System">
+  <img src="https://img.shields.io/badge/GitHub_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-`Django`
+<a href="https://.com">
+  <img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-`PostgreSQL`
+<a href="https://your-db-design-link.com">
+  <img src="https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
 
-`REST API`
-
-`Clean Architecture`
-
-`JWT`
-
-`Git`
-
-`Docker`
-
-`Software Design`
-
-</details>
+<a href="https://your-api-docs-link.com">
+  <img src="https://img.shields.io/badge/API_Documentation-000000?style=for-the-badge&logo=swagger&logoColor=white">
+</a>
 
 ---
-
-<details>
-
-<summary>
-
-# 📚 Readsy — Online Book Marketplace
-
-</summary>
-
-### Overview
-
-Readsy is a full-stack web application designed to simplify buying and selling books. The project emphasizes user experience, backend architecture, secure authentication, and efficient database management.
-
----
-
-| Category | Details |
-|----------|---------|
-| Backend | Django |
-| Frontend | HTML, CSS, JavaScript |
-| Database | PostgreSQL |
-| Authentication | Custom Authentication |
-| Architecture | MVC + Clean Practices |
-| Security | Session Based |
-| Repository | Coming Soon |
-
----
-
-### Features
-
-- User Registration
-- Login System
-- Book Listings
-- Search Functionality
-- Category Filters
-- Wishlist
-- Responsive Design
-- Secure Authentication
-
----
-
-### Engineering Highlights
-
-- ORM Optimization
-- Query Optimization
-- Session Handling
-- Form Validation
-- File Upload
-- Clean Templates
-- Scalable Models
-
----
-
-### Skills Demonstrated
-
-`Python`
-
-`Django`
-
-`ORM`
-
-`PostgreSQL`
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`Git`
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🔐 Custom Authentication System
-
-</summary>
-
-### Overview
-
-A fully custom authentication system built without relying on Django's built-in authentication framework. The project demonstrates an in-depth understanding of sessions, cookies, hashing, validation, and user management.
-
----
-
-| Category | Details |
-|----------|---------|
-| Framework | Django |
-| Authentication | Custom |
-| Session | Manual |
-| Cookies | Manual |
-| Password Hashing | Custom Implementation |
-| Repository | Coming Soon |
-
----
-
-### Features
-
-- Signup
-- Login
-- Logout
-- Session Handling
-- Cookie Management
-- Password Validation
-- Email Login
-- Username Login
-
----
-
-### Skills
-
-`Authentication`
-
-`Security`
-
-`Sessions`
-
-`Cookies`
-
-`Validation`
-
-`Backend`
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# 🧠 Data Structures & Algorithms Practice Repository
-
-</summary>
-
-### Overview
-
-A continuously growing collection of data structures, algorithms, and coding interview problems solved using Python. This repository reflects my commitment to improving problem-solving skills and mastering computer science fundamentals.
-
----
-
-| Category | Details |
-|----------|---------|
-| Language | Python |
-| Topics | DSA |
-| Difficulty | Beginner → Advanced |
-| Repository | Coming Soon |
-
----
-
-### Covered Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Binary Search Trees
-- Heap
-- Graph
-- Hash Maps
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
-- Recursion
-
----
-
-### Platforms
-
-- LeetCode
-- HackerRank
-- GeeksforGeeks
-
-</details>
-
----
-
-# 📈 Project Highlights
-
-| Project | Focus | Architecture | Status |
-|----------|-------|--------------|--------|
-| TaskPixie | AI Productivity Platform | Clean Architecture | 🚧 In Progress |
-| Readsy | Book Marketplace | MVC + Clean Design | 🚧 In Progress |
-| Authentication System | Security | Custom Auth | ✅ Completed |
-| DSA Repository | Problem Solving | Python | 🚀 Active |
-
----
-
-# 🏆 Engineering Principles
-
-✔ Write Clean Code
-
-✔ Follow SOLID Principles
-
-✔ Build Scalable Systems
-
-✔ Prioritize Maintainability
-
-✔ Design for Performance
-
-✔ Secure by Default
-
-✔ API First Development
-
-✔ Continuous Learning
-
----
-
-# 💡 What I Enjoy Building
-
-- Backend Systems
-- REST APIs
-- Authentication Systems
-- Database Design
-- Software Architecture
-- Automation Tools
-- Productivity Applications
-- AI-powered Software
-- Developer Tools
-- Open Source Projects
-
----
-
----
-
-# 💼 Experience
-
-## 🎓 Self-Taught Python Developer
-
-**Independent Learning Journey**  
-**2024 – Present**
-
-As a self-taught developer, I have built a strong foundation in backend engineering by consistently developing real-world applications and studying software engineering principles beyond tutorials.
-
-Rather than focusing solely on syntax, I emphasize writing clean, maintainable, scalable, and production-ready code.
-
-### Responsibilities
-
-- Designed scalable backend architectures
-- Built RESTful APIs using Django
-- Learned Clean Architecture & Modular Monolith
-- Implemented secure authentication systems
-- Designed relational databases using PostgreSQL
-- Practiced Data Structures & Algorithms
-- Worked with Git & GitHub workflows
-- Learned Linux development environment
-- Explored Docker and deployment concepts
-- Continuously improved problem-solving skills
-
-### Core Skills
-
-`Python`
-`Django`
-`PostgreSQL`
-`React`
-`Git`
-`Linux`
-`REST API`
-`ORM`
-`Clean Architecture`
-`OOP`
-`SQL`
-`Problem Solving`
-
----
-
-# 📅 Engineering Timeline
-
-| Year | Milestone |
-|------|-----------|
-| 2024 | Started Python Programming |
-| 2024 | Learned HTML, CSS & JavaScript |
-| 2024 | Built Full Stack Web Projects |
-| 2025 | Mastered Django Framework |
-| 2025 | Learned PostgreSQL & SQL |
-| 2025 | Studied Object-Oriented Programming |
-| 2025 | Learned ORM & REST API Development |
-| 2025 | Explored Clean Architecture |
-| 2026 | Building Enterprise-Level Backend Projects |
-| Present | Preparing for Software Engineering Roles |
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|--------------|---------|
-| 🚀 Self-Taught Developer | Built strong backend development skills through disciplined self-learning |
-| 💻 Project Builder | Developed multiple real-world applications using Django and PostgreSQL |
-| 🧠 Problem Solver | Regularly practice Data Structures & Algorithms |
-| 📚 Continuous Learner | Dedicated to mastering modern backend technologies |
-| ⚙️ Architecture Enthusiast | Passionate about Clean Architecture and scalable software design |
-| 🌱 Growth Mindset | Constantly learning, improving, and building |
-
-</div>
 
 ---
 
