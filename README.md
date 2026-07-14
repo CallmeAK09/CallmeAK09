@@ -293,20 +293,29 @@ The project follows clean backend practices with role-based authentication, modu
 # 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CallmeAK09&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=CallmeAK09&hide_border=true&background=00000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CallmeAK09&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=CallmeAK09&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
 </div>
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeAK09&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&langs_count=8"/>
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&days=30&grid=true"/>
-</div>
-<br>
+
 <div align="center">
 
----
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeAK09&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&days=30&grid=true&custom_title=My%20Last%2030%20Days"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 # 📂 Featured Repositories
 
