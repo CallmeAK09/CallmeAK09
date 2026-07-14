@@ -9,7 +9,7 @@
 
 <td width="32%" align="center">
 
-<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png" width="240">
+<img src="[https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/11G-8-----553-removebg-preview_viftxh.png](https://res.cloudinary.com/dntohhpee/image/upload/v1784014602/potrait_szd4zy.jpg)" width="240">
 
 </td>
 
