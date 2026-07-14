@@ -292,28 +292,23 @@ The project follows clean backend practices with role-based authentication, modu
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CallmeAK09&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=CallmeAK09&theme=github-dark&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CallmeAK09&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=CallmeAK09&hide_border=true&background=00000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
-
 <div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeAK09&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeAK09&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&langs_count=8"/>
 </div>
-
 <br>
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&theme=github-dark&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF"/>
 </div>
+<br>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=120&section=footer&animation=fadeIn"/>
+</div>
+<br>
+<div align="center">
 
 ---
 
@@ -345,8 +340,6 @@ A comprehensive hospital management platform with appointment booking, prescript
 **AI Task Management Platform**
 
 An AI-powered productivity application built with Clean Architecture, featuring smart task generation, prioritization, reminders, and analytics.
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/TaskPixie?style=flat-square&color=black)
 
 <a href="https://github.com/CallmeAK09/TaskPixie">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
