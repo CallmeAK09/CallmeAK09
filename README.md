@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=120&section=header&animation=fadeIn"/>
+
+</div>
+
 <table>
 <tr>
 
@@ -390,24 +396,24 @@ A structured collection of DSA implementations, explanations, and coding intervi
 
 ---
 
----
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=120&section=footer&animation=fadeIn"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
-### 🚀 Mission Continues...
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 
-*"Building reliable software, solving meaningful problems, and continuously growing as an engineer."*
+<h3><em>"Building reliable software, solving meaningful problems, and continuously growing as an engineer."</em></h3>
 
-<br>
-
-**Thanks for visiting my profile.**
-
-If my work interests you, feel free to explore my repositories and projects.
+Thanks for visiting my profile — feel free to explore the repositories above.
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**© 2026 Ambadi Kannan M • Crafted with ❤️ and countless cups of coffee**
+**© 2026 Ambadi Kannan M**
 
 </div>
