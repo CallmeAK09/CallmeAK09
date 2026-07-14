@@ -301,11 +301,7 @@ The project follows clean backend practices with role-based authentication, modu
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF"/>
-</div>
-<br>
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=120&section=footer&animation=fadeIn"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&hide_border=true&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&days=30&grid=true"/>
 </div>
 <br>
 <div align="center">
