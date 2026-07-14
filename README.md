@@ -238,7 +238,6 @@ The project follows clean backend practices with role-based authentication, modu
 
 ---
 
----
 
 # 📜 Certifications
 
@@ -284,277 +283,131 @@ The project follows clean backend practices with role-based authentication, modu
 
 ---
 
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Ambadi_Kannan/">
-
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/Callme_AK09">
-
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/ambadi-kannan-m">
-
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</div>
-
----
-
-# 📖 Areas of Interest
-
-- Backend Engineering
-- Software Architecture
-- Distributed Systems
-- API Development
-- Database Design
-- Cloud Computing
-- Artificial Intelligence
-- Machine Learning
-- Open Source Development
-- DevOps
-- Cyber Security
-- Performance Optimization
-
----
-
-# 📚 Currently Reading & Learning
-
-| Topic | Status |
-|--------|--------|
-| Advanced Django | 🟣 In Progress |
-| PostgreSQL Internals | 🟣 In Progress |
-| System Design | 🟣 In Progress |
-| Docker | 🟣 In Progress |
-| Kubernetes | 🔵 Planned |
-| AWS Cloud | 🔵 Planned |
-| Design Patterns | 🟣 In Progress |
-| Machine Learning | 🟣 In Progress |
-| AI Engineering | 🟣 In Progress |
-
----
-
-# 🤝 Collaboration
-
-I'm always interested in collaborating on projects involving:
-
-- Backend Engineering
-- Python
-- Django
-- REST APIs
-- Open Source
-- Automation
-- AI Applications
-- Developer Tools
-- Productivity Platforms
-- Database Optimization
-
-If you're building something exciting, feel free to reach out!
-
----
-
----
-
 # 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Callme_AK09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CallmeAK09&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callme_AK09&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=CallmeAK09&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeAK09&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeAK09&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📂 Featured Repositories
 
-<div align="center">
+> A collection of projects that reflect my journey in backend development, clean architecture, and problem solving.
 
-<img src="https://streak-stats.demolab.com?user=Callme_AK09&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
----
+## 🏥 MEDPAL
 
-# 🏆 GitHub Trophies
+**Hospital Management System**
 
-<div align="center">
+A comprehensive hospital management platform with appointment booking, prescriptions, lab reports, digital wallets, secure payments, and role-based access.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Callme_AK09&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/MEDPAL?style=flat-square&color=black)
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Callme_AK09&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Create the following GitHub Action after creating your repository to enable the contribution snake animation.**
-
-### `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-          github_user_name: Callme_AK09
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After enabling the workflow, add this to your README:
-
-```markdown
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Callme_AK09/Callme_AK09/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-```
-
----
-
-# 📌 Current Focus
-
-```yaml
-Current Focus:
-
-Learning:
-  - Advanced Django
-  - PostgreSQL
-  - Docker
-  - Kubernetes
-  - AWS
-  - Machine Learning
-  - System Design
-
-Building:
-  - TaskPixie
-  - Readsy
-  - Enterprise Backend Projects
-
-Exploring:
-  - Artificial Intelligence
-  - Design Patterns
-  - Distributed Systems
-  - Performance Engineering
-
-Open To:
-  - Software Engineer Roles
-  - Backend Developer Roles
-  - Django Developer Positions
-  - Open Source Contributions
-```
-
----
-
-# 🌟 Developer Philosophy
-
-> **"Software engineering is not just about writing code—it's about solving problems, designing scalable systems, and creating technology that makes a meaningful impact."**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mr.ak11718@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-mr.ak11718%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://github.com/CallmeAK09/MEDPAL">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/ambadi-kannan-m">
+</td>
 
-<img src="https://img.shields.io/badge/LinkedIn-Ambadi%20Kannan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<td width="50%" valign="top">
 
+## 🚀 TaskPixie
+
+**AI Task Management Platform**
+
+An AI-powered productivity application built with Clean Architecture, featuring smart task generation, prioritization, reminders, and analytics.
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/TaskPixie?style=flat-square&color=black)
+
+<a href="https://github.com/CallmeAK09/TaskPixie">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/Callme_AK09">
+</td>
 
-<img src="https://img.shields.io/badge/GitHub-Callme__AK09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Readsy
+
+**Online Book Marketplace**
+
+A modern bookstore application with authentication, wishlist, shopping cart, order management, and payment integration.
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/Readsy?style=flat-square&color=black)
+
+<a href="https://github.com/CallmeAK09/Readsy">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://leetcode.com/u/Ambadi_Kannan/">
+</td>
 
-<img src="https://img.shields.io/badge/LeetCode-Ambadi__Kannan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<td width="50%" valign="top">
 
+## 🧠 DSA
+
+**Data Structures & Algorithms**
+
+A structured collection of DSA implementations, explanations, and coding interview practice in Python.
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/DSA?style=flat-square&color=black)
+
+<a href="https://github.com/CallmeAK09/DSA">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
-
-# 💜 Support My Journey
-
-If you like my work, consider:
-
-⭐ Starring my repositories
-
-🍴 Contributing to my open-source projects
-
-🤝 Connecting with me on LinkedIn
-
-💬 Discussing backend engineering and software architecture
 
 ---
 
 <div align="center">
 
-### 💻 "Code with Purpose. Build with Passion. Learn without Limits."
+### 🚀 Mission Continues...
 
-</div>
+*"Building reliable software, solving meaningful problems, and continuously growing as an engineer."*
 
----
+<br>
 
-<div align="center">
+**Thanks for visiting my profile.**
 
-### Thanks for visiting my profile!
+If my work interests you, feel free to explore my repositories and projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**© 2026 Ambadi Kannan M • Crafted with ❤️ and countless cups of coffee**
 
 </div>
