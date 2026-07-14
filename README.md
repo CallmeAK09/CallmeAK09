@@ -9,7 +9,8 @@
 
 <td width="32%" align="center">
 
-<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1784014602/potrait_szd4zy.jpg" width="240">
+
+<img src="https://res.cloudinary.com/dntohhpee/image/upload/v1784014602/potrait_szd4zy.jpg" width="2500">
 
 </td>
 
@@ -331,8 +332,6 @@ The project follows clean backend practices with role-based authentication, modu
 
 A comprehensive hospital management platform with appointment booking, prescriptions, lab reports, digital wallets, secure payments, and role-based access.
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/MEDPAL?style=flat-square&color=black)
-
 <a href="https://github.com/CallmeAK09/MEDPAL">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -367,7 +366,6 @@ An AI-powered productivity application built with Clean Architecture, featuring 
 
 A modern bookstore application with authentication, wishlist, shopping cart, order management, and payment integration.
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/Readsy?style=flat-square&color=black)
 
 <a href="https://github.com/CallmeAK09/Readsy">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -382,8 +380,6 @@ A modern bookstore application with authentication, wishlist, shopping cart, ord
 **Data Structures & Algorithms**
 
 A structured collection of DSA implementations, explanations, and coding interview practice in Python.
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/CallmeAK09/DSA?style=flat-square&color=black)
 
 <a href="https://github.com/CallmeAK09/DSA">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
