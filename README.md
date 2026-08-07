@@ -325,7 +325,7 @@ The project follows clean backend practices with role-based authentication, modu
 
 A comprehensive hospital management platform with appointment booking, prescriptions, lab reports, digital wallets, secure payments, and role-based access.
 
-<a href="https://github.com/CallmeAK09/MEDPAL">
+<a href="https://github.com/CallmeAK09/MEDPAL-Hospital-Management-System">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -333,13 +333,13 @@ A comprehensive hospital management platform with appointment booking, prescript
 
 <td width="50%" valign="top">
 
-## 🚀 TaskPixie
+## ⚡ ORM Workbench
 
-**AI Task Management Platform**
+**Dynamic Django ORM Playground**
 
-An AI-powered productivity application built with Clean Architecture, featuring smart task generation, prioritization, reminders, and analytics.
+A browser-based interactive Django ORM playground for defining models, dynamically creating database schemas, executing ORM queries, experimenting with relationships, and inspecting results.
 
-<a href="https://github.com/CallmeAK09/TaskPixie">
+<a href="https://github.com/CallmeAK09/ORM_WORKBENCH">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
