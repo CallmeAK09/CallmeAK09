@@ -350,32 +350,11 @@ A browser-based interactive Django ORM playground for defining models, dynamical
 <tr>
 
 <td width="50%" valign="top">
-
-## 📚 Readsy
-
-**Online Book Marketplace**
-
-A modern bookstore application with authentication, wishlist, shopping cart, order management, and payment integration.
-
-
-<a href="https://github.com/CallmeAK09/Readsy">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+leethub
 </td>
 
 <td width="50%" valign="top">
-
-## 🧠 DSA
-
-**Data Structures & Algorithms**
-
-A structured collection of DSA implementations, explanations, and coding interview practice in Python.
-
-<a href="https://github.com/CallmeAK09/DSA">
-<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+sn
 </td>
 
 </tr>
