@@ -332,7 +332,7 @@ A comprehensive hospital management platform featuring appointment booking, digi
 
 <td width="50%" valign="top">
 
-## <a href="https://fonts.googleapis.com/"></a> ORM Workbench
+## <a href="https://github.com/CallmeAK09/ORM_WORKBENCH"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 34 34'%3E%3Crect x='2' y='2' width='30' height='30' rx='7' fill='%23050a0f'/%3E%3Cpath d='M17 6 L28 17 L17 28 L6 17 Z' fill='none' stroke='%2300f5ff' stroke-width='2'/%3E%3Cpath d='M14.5 11 L21 17 L14.5 23' fill='none' stroke='%2300ff9f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='17' cy='17' r='2.6' fill='%2300f5ff'/%3E%3C/svg%3E" width="50" height="50" align="center" alt="ORM Workbench Logo"></a> ORM Workbench
 
 **Dynamic Django ORM Playground**
 
@@ -348,7 +348,7 @@ An interactive, browser-based Django ORM playground that enables developers to d
 <tr>
 <td width="50%" valign="top">
 
-## <a href="https://res.cloudinary.com/xpehvn66/image/upload/v1794678367/Neon_Local_Coder_App_Icon_vl8wml.png" width="50" height="50" align="center"></a> Local-Coder
+## <a href="https://github.com/CallmeAK09/ORM_WORKBENCH"><img src="https://res.cloudinary.com/xpehvn66/image/upload/v1794678367/Neon_Local_Coder_App_Icon_vl8wml.png" width="50" height="50" align="center"></a>  Local-Coder
 
 **Offline Multi-Language Code Editor & Compiler**
 
