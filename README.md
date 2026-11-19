@@ -316,14 +316,13 @@ The project follows clean backend practices with role-based authentication, modu
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🏥 MEDPAL
+## <a href="https://github.com/CallmeAK09/MEDPAL-Hospital-Management-System"><img src="https://res.cloudinary.com/dntohhpee/image/upload/v1759819981/Medpal_logo_g2yock.png" width="50" height="50" align="center"></a> MEDPAL
 
 **Hospital Management System**
 
-A comprehensive hospital management platform with appointment booking, prescriptions, lab reports, digital wallets, secure payments, and role-based access.
+A comprehensive hospital management platform featuring appointment booking, digital prescriptions, laboratory reports, patient wallets, secure payment integration, and role-based access control.
 
 <a href="https://github.com/CallmeAK09/MEDPAL-Hospital-Management-System">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -333,30 +332,33 @@ A comprehensive hospital management platform with appointment booking, prescript
 
 <td width="50%" valign="top">
 
-## ⚡ ORM Workbench
+## <a href="https://fonts.googleapis.com/"></a> ORM Workbench
 
 **Dynamic Django ORM Playground**
 
-A browser-based interactive Django ORM playground for defining models, dynamically creating database schemas, executing ORM queries, experimenting with relationships, and inspecting results.
+An interactive, browser-based Django ORM playground that enables developers to define models, dynamically create database schemas, execute ORM queries, experiment with model relationships, and inspect query results.
 
 <a href="https://github.com/CallmeAK09/ORM_WORKBENCH">
 <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
-leethub
-</td>
 
-<td width="50%" valign="top">
-sn
-</td>
+## <a href="https://res.cloudinary.com/xpehvn66/image/upload/v1794678367/Neon_Local_Coder_App_Icon_vl8wml.png" width="50" height="50" align="center"></a> Local-Coder
 
+**Offline Multi-Language Code Editor & Compiler**
+
+A locally hosted coding environment that allows developers to write, execute, and test programs without relying on cloud-based compilers. Supports multiple programming languages through locally installed runtimes and compilers, with an integrated HTML/CSS live preview, execution output panel, and Progressive Web App (PWA) capabilities.
+
+<a href="https://github.com/CallmeAK09/Local-Coder">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
 </tr>
 </table>
 
